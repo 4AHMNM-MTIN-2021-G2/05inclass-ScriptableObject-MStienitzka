@@ -1,28 +1,28 @@
 # Unity2019114f1-2D-Template
 
 ### Project description: 
-Introduction/Project summary 
+This is a testProeject with which we learned all about ScriptableObjects
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Unity 2019.4.18f1 and VisualStudioCode
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+//
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+Clone it -> UnityHub Add -> Select ProjectFolder and start
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+//
 
 ### Project state: 
-incl. progress in percent
+100% done
 
-### Limitations: 
 
 ### Lessons Learned: 
+I got introduced to ScriptableObjects which make storing Data a lot easier
 
-Copyright by you :)
+Copyright by Max Stienitzka
